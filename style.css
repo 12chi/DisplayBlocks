@@ -5,7 +5,7 @@
 }
 #wrapper{
  width: 890px;
- background-color: #bbd090;
+ background-color: #D6D1B1;
  margin: 15px auto;
  padding: 15px;
 }
@@ -43,7 +43,7 @@ h1{
 .imgBody2{
     height: 150px;
     width: 150px;
-    background-color: rgb(241, 145, 163);
+    background-color: #FC6471;
     margin: 2px;
     padding: 0px;
     border: 3px solid black;
